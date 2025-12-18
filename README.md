@@ -1,5 +1,5 @@
-# **Theme Name**
+# Discourse Staff Shield Colors
 
 **Theme Summary**
 
-For more information, please see: **url to meta topic**
+Allows customizing shield colors for Admins and Moderators to hightlight and differentiate them.
