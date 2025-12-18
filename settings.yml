@@ -8,4 +8,4 @@ admin_color:
   type: string
   default: "#FFD700"
   description: 
-    en: "Admin shield icon color."
+    en: "Admin shield icon color - use hexadecimal code or html color name."
