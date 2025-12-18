@@ -1,9 +1,11 @@
 moderator_color:
   type: string
   default: ""
-  description: "Moderator shield icon color."
+  description: 
+    en: "Moderator shield icon color."
 
 admin_color:
   type: string
   default: ""
-  description: "Admin shield icon color."
+  description: 
+    en: "Admin shield icon color."
